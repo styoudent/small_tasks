@@ -1,9 +1,13 @@
+import UniversalDataForFunctions.FixedVariables;
+import contains_duplicate.ContainsDuplicate;
 import two_sum.TwoSum;
 
 public class Main {
     public static void main(String[] args) {
-        final int[] givenNumbers = {1,2,3,7,11,15};
-        final int targetSum = 222;
-        TwoSum.numChecker(givenNumbers, targetSum);
+        FixedVariables variables = new FixedVariables();
+        TwoSum two_sum = new TwoSum(variables.getNumsToCheck(), variables.getTargetSum());
+        ContainsDuplicate contains_duplicate = new ContainsDuplicate(variables.getNumsToCheck());
+
+
     }
 }
