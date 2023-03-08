@@ -1,4 +1,4 @@
-import UniversalDataForFunctions.FixedVariables;
+import universal_data_for_functions.FixedVariables;
 import contains_duplicate.ContainsDuplicate;
 import two_sum.TwoSum;
 
