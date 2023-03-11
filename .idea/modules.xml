@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/contains_duplicate/contains_duplicate.iml" filepath="$PROJECT_DIR$/modules/contains_duplicate/contains_duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview_tasks.iml" filepath="$PROJECT_DIR$/interview_tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/two_sum/two_sum.iml" filepath="$PROJECT_DIR$/modules/two_sum/two_sum.iml" />
     </modules>
   </component>
 </project>
