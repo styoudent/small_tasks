@@ -1,7 +1,5 @@
 package contains_duplicate;
 
-import java.util.Arrays;
-
 public class ContainsDuplicate {
     public ContainsDuplicate(int[] numsToCheck) {
         boolean result = containsDuplicatesChecker(numsToCheck);
